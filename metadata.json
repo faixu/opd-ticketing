@@ -1,0 +1,6 @@
+{
+  "name": "SehatQueue - OPD Ticketing & Real-Time Queue System",
+  "description": "Hospital OPD token booking, atomic sequential queue management, reception walk-in desk, doctor room console, and live digital slip tracking for public hospitals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
